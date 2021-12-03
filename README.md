@@ -1,7 +1,10 @@
 # Music Retrieval System using Query-by-Humming/Singing
 Author: Laia Albors
+
 Director: José Adrián Rodriguez Fonollosa
+
 Final Thesis
+
 BSc Data Science and Engineering
 
 ### Description
