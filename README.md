@@ -1,5 +1,5 @@
 # Music Retrieval System using Query-by-Humming/Singing
-Author: Laia Albors
+Author: Laia Albors Zumel
 
 Director: José Adrián Rodriguez Fonollosa
 
@@ -19,19 +19,19 @@ Thus, the objective of this Final Thesis is to develop a model capable of identi
 2.    Preprocess:
 
     a. Extract vocal part
-    
+
     b. Data Augmentation
-    
+
     c. Delete silence
-    
+
     d. Segment the audios
 
 3.    Extract features from the recordings
 
     a. MELODIA: Justin Salamon i Emilia Gómez. “Melody Extraction from Polyphonic Music Signals using Pitch Contour Characteristics”. A: IEEE Transactions on Audio, Speech and Language Processing 20 (2012), pàg. 1759 - 1770. url: http://hdl.handle.net/10230/42183.
-    
+
     b. YAAPT: Stephen Zahorian i Hongbing Hu. “A spectral/temporal method for robust fundamental frequency tracking”. A: The Journal of the Acoustical Society of America 123 (jul. de 2008), pàg. 4559 - 71. doi: 10.1121/1.2916590.
-    
+
     c. VGGish: Shawn Hershey et al. “CNN Architectures for Large-Scale Audio Classification”. A: CoRR abs/1609.09430 (2016). arXiv: 1609.09430. url: http://arxiv.org/abs/1609.09430.
 
 4.    Triplet Network
